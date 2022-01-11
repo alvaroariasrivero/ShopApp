@@ -28,7 +28,7 @@ function App() {
   useEffect(() => {
     async function fetchProducts(){
       try {
-        const res = await axios.get(`http://localhost:5000/api/products/${search}`);
+        const res = await axios.get(`/api/products/${search}`);
         const json = res.data
         const productArray = json.map(element => {
           return{

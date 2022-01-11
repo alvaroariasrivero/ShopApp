@@ -6,7 +6,7 @@ import './Details.css';
 
 const productDetails = async(id) =>{
   try {
-    const res = await axios.get(`http://localhost:5000/api/products/product_id/${id}`)
+    const res = await axios.get(`/api/products/product_id/${id}`)
     console.log('Esto es res data', res.data)
     return res.data[0]
   } catch (error) {
