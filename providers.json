@@ -1,0 +1,17 @@
+[
+    {
+        "name": "HP",
+        "cif": "12345-CMI",
+        "direction": "Avda. Reyes Católicos, 54"
+    },
+    {
+        "name": "Huawei",
+        "cif":"67890-JRM",
+        "direction": "Avda. Payaso Fofó, 13"
+    },
+    {
+        "name": "Panasonic",
+        "cif": "12345-MDA",
+        "direction": "Calle Constitución, 13"
+    }
+]

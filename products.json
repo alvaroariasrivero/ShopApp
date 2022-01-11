@@ -1,0 +1,444 @@
+[
+    
+    {
+        "name": "Computer JQK",
+        "rating": 4,
+        "price": 278,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 1,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark": "Huawei"
+    },    
+    {
+        "name": "Computer A",
+        "rating": 2,
+        "price": 250,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 2,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark": "HP"
+    },    
+    {
+        "name": "Computer DIAMOND",
+        "rating": 5,
+        "price": 2789,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 3,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark": "Huawei"
+    },    
+    {
+        "name": "Computer A",
+        "rating": 3,
+        "price": 2500,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 4,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark": "Panasonic"
+    },    
+    {
+        "name": "Computer JQK",
+        "rating": 1,
+        "price": 2976,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 5,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark": "HP"
+    },    
+    {
+        "name": "Computer A",
+        "rating": 4,
+        "price": 250,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 6,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },    
+    {
+        "name": "Computer DIAMOND",
+        "rating": 4,
+        "price": 2467,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 7,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },    
+    {
+        "name": "Computer CLUB",
+        "rating": 5,
+        "price": 2567,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 8,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP"
+    },    
+    {
+        "name": "Computer JQK",
+        "rating": 5,
+        "price": 2796,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 9,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP" 
+    },    
+    {
+        "name": "Computer CLUB",
+        "rating": 2,
+        "price": 2865,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 10,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark": "HP"
+    },
+    {
+        "name": "Mobile JQK",
+        "rating": 2,
+        "price": 2865,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 11,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Mobile DIAMOND",
+        "rating": 5,
+        "price": 2872,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 12,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Mobile JQK",
+        "rating": 3,
+        "price": 1765,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 13,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP"
+    },
+    {
+        "name": "Mobile ACE",
+        "rating": 4,
+        "price": 1863,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 14,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Mobile DIAMOND",
+        "rating": 1,
+        "price": 735,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 15,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP"
+    },
+    {
+        "name": "Mobile JQK",
+        "rating": 5,
+        "price": 1764,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 16,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Mobile ACE",
+        "rating": 1,
+        "price": 1567,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 17,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Mobile JQK",
+        "rating": 5,
+        "price": 734,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 18,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Mobile DIAMOND",
+        "rating": 1,
+        "price": 2865,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 19,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Mobile ACE",
+        "rating": 5,
+        "price": 1500,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 20,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Television JQK",
+        "rating": 3,
+        "price": 1200,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 21,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Television JQK",
+        "rating": 2,
+        "price": 1000,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id":22,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Television JQK",
+        "rating": 5,
+        "price": 1500,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 23,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP"
+    },
+    {
+        "name": "Television ACE",
+        "rating": 5,
+        "price": 1600,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 24,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark": "Panasonic"
+    },
+    {
+        "name": "Television ACE",
+        "rating": 3,
+        "price": 1790,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 25,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP"
+    },
+    {
+        "name": "Television ACE",
+        "rating": 3,
+        "price": 1398,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 26,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Television CLUB",
+        "rating": 5,
+        "price": 1500,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 27,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Television CLUB",
+        "rating": 1,
+        "price": 10000,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 28,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Television CLUB",
+        "rating": 4,
+        "price": 789,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 29,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Television Cabal",
+        "rating": 3,
+        "price": 3000,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 30,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Screen Js",
+        "rating": 3,
+        "price": 542,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 31,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Screen Xway",
+        "rating": 4.5,
+        "price": 178,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 32,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Screen Xtreme",
+        "rating": 3.5,
+        "price": 1000,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 33,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Screen Rainbow",
+        "rating": 1.5,
+        "price": 64,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 34,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP"
+    },
+    {
+        "name": "Screen HdK",
+        "rating": 5,
+        "price": 129,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 35,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    },
+    {
+        "name": "Screen Oli89",
+        "rating": 4.5,
+        "price": 205,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 36,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP"
+    },
+    {
+        "name": "Screen SLed",
+        "rating": 5,
+        "price": 139,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 37,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark": "Panasonic"
+    },
+    {
+        "name": "Screen JQK",
+        "rating": 4,
+        "price": 99.99,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e43"
+        },
+        "id": 38,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Huawei"
+    },
+    {
+        "name": "Screen LILPapaya",
+        "rating": 3,
+        "price": 300,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e42"
+        },
+        "id": 39,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"HP"
+    },
+    {
+        "name": "Screen PureBlack",
+        "rating": 5,
+        "price": 899,
+        "provider": {
+            "$oid": "61dd69901d6aa4937a076e44"
+        },
+        "id": 40,
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum tincidunt vestibulum. Nam id bibendum velit, elementum consequat magna. Quisque posuere egestas mi. Maecenas convallis risus sed pharetra luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean at vehicula felis, eget vehicula sapien. Quisque id nisi lorem. Sed eu dui consequat, vestibulum purus vel, aliquam nunc. Ut mi mi, tincidunt tincidunt sapien ac, gravida vulputate ipsum. Pellentesque a gravida lorem. Suspendisse massa lacus, mattis at risus sit amet, sagittis aliquet augue.Maecenas fermentum pretium ante, id fermentum eros porttitor eu. Sed tincidunt elit quis euismod mollis. Nunc convallis, dui ac consequat fermentum, mi ex rutrum nisi, et tempor libero sem feugiat purus. In a volutpat lorem. Donec ipsum massa, viverra at dignissim dictum, volutpat et orci. Nulla metus leo, consectetur ac leo sed, dictum blandit quam. Phasellus mattis, ante vel ullamcorper interdum, enim ante tempor risus, ac egestas tortor tellus a nisi. Morbi vitae sapien eu magna molestie sollicitudin. Morbi pretium orci nec tortor rutrum, a ultricies metus lobortis. Vivamus ac lobortis ex. Etiam mollis tellus turpis, vel egestas nisl ultricies eu. Aliquam pellentesque scelerisque lobortis. Cras condimentum lectus non nisi ullamcorper tincidunt.",
+        "trademark":"Panasonic"
+    }    
+
+]
