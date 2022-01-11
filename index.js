@@ -1,7 +1,7 @@
 require('dotenv').config();
 const express = require('express');
 const app = express();
-const port = process.env.port || 5000;
+const PORT = process.env.PORT || 5000;
 const productsApi = require ('./controllers/productApi');
 const cors = require('cors');
 const path = require('path');
@@ -22,5 +22,5 @@ app.get('/api/products/:provider?', productsApi.getProductsByProvider);
 app.get('/api/products/product_id/:id?', productsApi.getProductById);
 
 app.listen(port, () => {
-console.log(`Example app listening at http://localhost:${port}`)
+console.log(`Example app listening at http://localhost:${PORT}`)
 });
