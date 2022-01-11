@@ -21,6 +21,6 @@ app.get('/api/products/:name?', productsApi.getProductsByName);
 app.get('/api/products/:provider?', productsApi.getProductsByProvider);
 app.get('/api/products/product_id/:id?', productsApi.getProductById);
 
-app.listen(port, () => {
+app.listen(PORT, () => {
 console.log(`Example app listening at http://localhost:${PORT}`)
 });
